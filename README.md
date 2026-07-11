@@ -158,24 +158,34 @@ VITE_REGISTRY_CONTRACT_ID=CCV2TRDYYCGZE5AEQYZSZXVH6FYKBDPTRAXS2ZMI377ROMUULIGHKK
 ## 9. Screenshots
 
 ### Product UI
-<img width="1914" height="937" alt="image" src="https://github.com/user-attachments/assets/6e53b5a6-d38d-4157-a6f6-17f9b1d0f9ce" />
+<img width="1914" height="937" alt="image" src="https://github.com/user-attachments/assets/6e53b5a6-d38d-4157-a6f6-17f9b1d0f9ce"/>
+
 Main dashboard showcasing the core functionality of BountyBridge.
+
 ---
 ### Wallet Connection & Balance
 <img width="1919" height="936" alt="image" src="https://github.com/user-attachments/assets/012fd9ea-c6e6-4c99-bd30-9c903ff2320e" />
+
 Connected Stellar wallet displaying the user's XLM balance.
+
 ---
 ### Dashboard
 <img width="1916" height="930" alt="image" src="https://github.com/user-attachments/assets/c79e82f0-87dd-4e8b-b242-6cea5fbf0a99" />
+
 ---
 ### Mobile Responsive Design
 <img width="274" height="592" alt="image" src="https://github.com/user-attachments/assets/2b616180-db91-48d8-ad85-3d42a5b9a666" />
+
 Responsive layout across mobile devices.
+
 ---
 
 ### CI/CD Pipeline & Test Results
-![CI/CD Pipeline](docs/screenshots/cicd-and-tests.png)
+
+<img width="1898" height="981" alt="image" src="https://github.com/user-attachments/assets/78a6f8c3-c82b-44a4-a187-33089e4fdb4d" />
+
 GitHub Actions workflow showing successful builds and passing tests.
+
 ---
 
 ## 10. Testing

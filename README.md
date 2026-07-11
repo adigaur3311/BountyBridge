@@ -230,8 +230,8 @@ We use **GitHub Actions** to automate CI/CD processes. The workflow runs on ever
 *   **10+ Wallet Interactions:** Successfully executed and recorded on Stellar Testnet.
 *   **Feedback Collection Process:** Users completed a Google Form detailing usability, transaction delays, and feature suggestions. Data was automatically aggregated in a Google Sheet.
 *   **Feedback Summary:** Average payout settlement duration measured under 4.5 seconds. Adding a simulator login options significantly resolved onboarding friction. UI components were optimized based on mobile responsive feedback.
-*   **Google Form Link:** [Feedback Survey Link](https://forms.gle/feedback_form_placeholder)
-*   **Google Sheet Link:** [Feedback Audit Sheet Link](https://docs.google.com/spreadsheets/d/testing_sheet_placeholder/edit)
+*   **Google Form Link:** [Feedback Survey Link](https://forms.gle/z3UzRMuprXFxJrt9A)
+*   **Google Sheet Link:** [Feedback Audit Sheet Link](https://docs.google.com/spreadsheets/d/16r2mraICSqApa5PZrn1tiqjff0bxpUnglcUSC72cMPQ/edit?usp=sharing)
 
 ---
 
@@ -283,7 +283,7 @@ The following 10 real user transactions were successfully executed on the Stella
 
 ## 15. Demo Video
 
-*   **Demo Video Link:** [BountyBridge Walkthrough Video](https://youtube.com/watch?v=demo_video_placeholder)
+*   **Demo Video Link:** [BountyBridge Walkthrough Video](https://drive.google.com/file/d/1O8Youk45YyZxKD9cTyIp5E5l4Blsnq_Y/view?usp=sharing)
 *   **Description:** A 5-minute video walkthrough showcasing wallet logins, creating a bounty, depositing rewards into escrow, developer submissions, and contract-based winner payouts.
 
 ---
